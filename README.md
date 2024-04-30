@@ -1,4 +1,4 @@
-# Project Name
+# JavaScript Hub
 
 15+ Projects using vanilla JavaScript where i mainly focused on functionality.
 
